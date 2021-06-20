@@ -1,7 +1,7 @@
 # CardioSpike
 Our code for hackathon for predicting abnormal spikes in RR intervals
 
-To run prediction in command line:
+To run prediction in command line (example input file you can find in data/test.csv):
 ```
 python cardioSpike.py data/test.csv data/output/ --pics
 ```
