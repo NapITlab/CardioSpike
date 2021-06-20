@@ -6,4 +6,4 @@ To run prediction in command line (example input file you can find in data/test.
 python cardioSpike.py data/test.csv data/output/ --pics
 ```
 
-To use implementation od models UNet and CRNN look at RR.ipynb
+To use our implementation of models UNet and CRNN look at RR.ipynb
