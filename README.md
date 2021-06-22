@@ -13,8 +13,7 @@ python cardioSpike.py data/test.csv data/output/ --pics
 ### 3. [Web service](http://bit.ly/UnonaCovidWeb)
 ### 4. [Mobile App prototype](http://bit.ly/UnonaCovidMob)
 
-Screen casts of their usege you can watch [there](http://bit.ly/UnonaCovidScreencast)
-The solution presentation is [here](https://drive.google.com/file/d/1InD3rPh7IxIHf7zbeYIF_YmV0371u5vf/view?usp=sharing) 
+Screen casts of their usege you can watch [there](http://bit.ly/UnonaCovidScreencast). The solution presentation is [here](https://drive.google.com/file/d/1InD3rPh7IxIHf7zbeYIF_YmV0371u5vf/view?usp=sharing) 
 
 For questions and offers you can contact Dmitry Pustoshilov: pustoshilov.dv@phystech.edu 
 
