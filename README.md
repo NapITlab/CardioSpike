@@ -1,6 +1,7 @@
 # CardioSpike
 
-Solution for hackathon [«Цифровой прорыв» 2021 track Science&Health](https://leadersofdigital.ru/event/63008) for predicting abnormal spikes in RR intervals
+Solution for hackathon [«Цифровой прорыв» 2021 track Science&Health](https://leadersofdigital.ru/event/63008) for predicting abnormal spikes in RR intervals.
+Stack:  Python, Keras, PyTorch; React, SQL, Django, GCP; Figma, React Native.
 
 ## Software:
 
