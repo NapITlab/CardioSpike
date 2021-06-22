@@ -2,16 +2,16 @@
 
 Our code for hackathon for predicting abnormal spikes in RR intervals
 
-##Software:
+## Software:
 
-###1. Script prediction in command line (example input file: [data/test.csv]()):
+### 1. Script prediction in command line (example input file: [data/test.csv]()):
 ```
 python cardioSpike.py data/test.csv data/output/ --pics
 ```
 
-###2. The implementation of models UNet and CRNN look at [RR.ipynb](https://github.com/NapITlab/CardioSpike/blob/master/RR.ipynb)
-###3. [Web service](http://bit.ly/UnonaCovidWeb)
-###4. [Mobile App prototype](http://bit.ly/UnonaCovidMob)
+### 2. The implementation of models UNet and CRNN look at [RR.ipynb](https://github.com/NapITlab/CardioSpike/blob/master/RR.ipynb)
+### 3. [Web service](http://bit.ly/UnonaCovidWeb)
+### 4. [Mobile App prototype](http://bit.ly/UnonaCovidMob)
 
 Screen casts of their usege you can watch [there](http://bit.ly/UnonaCovidScreencast)
 
