@@ -1,6 +1,6 @@
 # CardioSpike
 
-Our code for hackathon for predicting abnormal spikes in RR intervals
+Solution for hackathon [«Цифровой прорыв» 2021 track Science&Health](https://leadersofdigital.ru/event/63008) for predicting abnormal spikes in RR intervals
 
 ## Software:
 
